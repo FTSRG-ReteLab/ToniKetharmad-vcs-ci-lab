@@ -2,6 +2,13 @@
 
 This is a sample application for the verification laboratory.
 
+## Rendszertervezes labor MIT2
+* 2. feladat
+  * 2. reszfeladat
+
+> Fontos a *szep* dokumentacio.
+
+
 ## Getting started
 
 * The application is implemented in Java.
