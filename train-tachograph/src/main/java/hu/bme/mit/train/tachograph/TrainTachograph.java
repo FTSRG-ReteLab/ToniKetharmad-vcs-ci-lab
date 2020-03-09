@@ -9,6 +9,7 @@ import hu.bme.mit.train.user.TrainUserImpl;
 
 import com.google.common.collect.ArrayTable;
 import com.google.common.collect.Table;
+import com.google.common.collect.Lists;
 
 import java.util.List;
 
