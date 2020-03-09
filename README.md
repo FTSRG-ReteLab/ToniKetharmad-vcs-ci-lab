@@ -2,11 +2,11 @@
 
 This is a sample application for the verification laboratory.
 
-## Rendszertervezes labor MIT2
+## Rendszertervezés labor MIT2
 * 2. feladat
-  * 2. reszfeladat
+  * 2. részfeladat
 
-> Fontos a *szep* dokumentacio.
+> Fontos a *szép* dokumentáció.
 
 
 ## Getting started
