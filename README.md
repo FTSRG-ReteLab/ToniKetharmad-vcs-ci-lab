@@ -6,7 +6,7 @@ This is a sample application for the verification laboratory.
 * 2. feladat
   * 2. részfeladat
 
-> Fontos a **nagyon** *szép* dokumentáció.
+> Fontos a **közepesen** *szép* dokumentáció.
 
 
 ## Getting started
