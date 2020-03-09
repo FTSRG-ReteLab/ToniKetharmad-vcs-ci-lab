@@ -16,8 +16,6 @@ public class TrainTachographTest {
 	@Before
 	public void before() {
 		tach = new TrainTachograph();
-
-		sensor.overrideSpeedLimit(50);
 	}
 
 	@Test
